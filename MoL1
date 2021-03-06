@@ -1,6 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //    Momomo LTD Opensource License 'MoL1' (https://raw.githubusercontent.com/momomo/momomo.com.Licenses/HEAD/MoL1)                       //
-//    Copyright(C) 2020, Momomo LTD. All rights reserved.                                                                                 //
+//                                                                                                                                        //
+//    Copyrightⓒ 2014-2021, Momomo LTD. All rights reserved.                                                                             //
 //                                                                                                                                        //
 //    (1) Use of this source code, wether identical, changed or altered is allowed, for commercial and non-commercial use.                //
 //                                                                                                                                        //
@@ -9,7 +10,7 @@
 //        entity/organization that introduced them.                                                                                       //
 //                                                                                                                                        //
 //    (3) The redistribution and/or publication of this source code to the public, if changed or altered, is prohibited using any         //
-//        medium not priorly approved by Momomo LTD unless a written consent has been requested and recieved by                           //
+//        medium not priorly approved by Momomo LTD unless a written consent has been requested and recieved by authorized                //
 //        representatives of Momomo LTD.                                                                                                  //
 //                                                                                                                                        //
 //    (4) The distribution of any work to the derived through the use of this source code, wether identical, changed or altered,          //
@@ -17,8 +18,8 @@
 //                                                                                                                                        //
 //    (5). Momomo LTD considers the techniques, design patterns, the naming, naming combinations, used and employed in the source as      //
 //         unique and copyright protected where the redistribution of this source code using altered names, and/or rearranging and/or     //
-//         restructuring of this source as a severe breach of the copyright law and this license. Momomo LTD reserves all rights to       //
-//         puruse any and all legal options.                                                                                              //
+//         restructuring of this source as a severe breach of this license and relevant copyright laws.                                   //
+//         Momomo LTD reserves all rights to puruse any and all legal options.                                                            //
 //                                                                                                                                        //
 //    (6) All copies of this source code, wether identical, changed/altered must include this entire copyright notice, list all changes   //
 //        made including the name and date of the entity/organization that introduced them, as well as the following disclaimer:          //
@@ -35,4 +36,6 @@
 //        SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                                                                    //
 //                                                                                                                                        //
 //    Please contact us on opensource{at}momomo.com if you have an improvement to this source code you'd like to contribute in any way.   //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// https://github.com/momomo/momomo.com.platform.Lambda
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
